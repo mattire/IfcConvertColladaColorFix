@@ -6,7 +6,7 @@ elements and stuffs them to the collada file
 
 Usage:
 
-python iccf.py <ifc file> <collada file>
+python iccf.py [ifc file] [collada file]
 
 
 code status:
